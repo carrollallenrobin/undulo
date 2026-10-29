@@ -6,7 +6,7 @@ Undulo is a pixel platformer created for the GitHub November Game Jam in Novembe
 
 Explore the ship, finding hidden sublevels--collecting ammo and other upgrades as you go--and gathering runes on each level to reach 100%. Make your way to the reactor to stop it exploding. 
 
-Play the game in the browser here: https://crisp-lad.itch.io/undulo
+Play the game in the browser here: https://carrollallenrobin.github.io/undulo/
 
 ## Screenshots
 <img width="1212" height="713" alt="image" src="https://github.com/user-attachments/assets/b579bee6-efd2-4251-b86a-a8c536cc7f75" />
